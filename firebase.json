@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "vyraimage",
+          "appId": "1:328203245006:android:e594001116f951a5b7079f",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "vyraimage",
+          "configurations": {
+            "android": "1:328203245006:android:e594001116f951a5b7079f",
+            "ios": "1:328203245006:ios:0ba787f79ae4eac0b7079f",
+            "macos": "1:328203245006:ios:0ba787f79ae4eac0b7079f",
+            "web": "1:328203245006:web:64e92273c7996e21b7079f",
+            "windows": "1:328203245006:web:6fa720a281ccb27bb7079f"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
