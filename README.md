@@ -47,17 +47,6 @@ Vyra isn't just a beautiful UI; it's a robust, production-ready Flutter architec
 * **Monetization:** Google Mobile Ads (AdMob) - Rewarded Videos & Interstitials.
 * **Local Storage:** Path Provider & Gal (Native Gallery saving).
 
----
-
-## 📸 Sneak Peek
-
-*(Add your app screenshots here! Create a folder named `assets` in your repo and upload 3-4 stunning screenshots showing the UI and generated art)*
-
-<div align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Home+Screen" width="30%">
-  <img src="https://via.placeholder.com/250x500.png?text=Generation+Screen" width="30%">
-  <img src="https://via.placeholder.com/250x500.png?text=Gallery+Screen" width="30%">
-</div>
 
 ---
 
@@ -76,3 +65,4 @@ Hi, I'm **Kartikeya Mishra**. I build high-performance mobile apps, explore Larg
 <div align="center">
   <i>"Imagination is the only limit." — Powered by Vyra AI</i>
 </div>
+
